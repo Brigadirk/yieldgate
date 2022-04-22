@@ -1,4 +1,4 @@
-# Yieldgateth
+# Yieldgate
 
 Based on [nextjs-ethereum-starter](https://github.com/ChangoMan/nextjs-ethereum-starter).
 
